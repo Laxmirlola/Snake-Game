@@ -75,4 +75,4 @@ python snake.py level2 astar
 ## 🙋‍♂️ Author
 
 **Laxmirlola Behera**  
-[GitHub]([https://github.com/](https://github.com/Laxmirlola))
+[GitHub](https://github.com/Laxmirlola)
